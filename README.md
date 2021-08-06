@@ -24,7 +24,7 @@ Created a finite state machine model in logisim to implement BFS algorithm.
   <img src="/images/graph.png" width="860" />
 </p>
 
-### Resgister file to save the disatances of visited nodes
+### Resgister file to save the distances of visited nodes
 
 <p float="left">
   <img src="/images/distances.png" width="860" />
